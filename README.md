@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ```
 
 ## Codebase Overview
-- `model.py` - Implementation of the proposed PhysReg-TCN architecture with prototype-guided contrastive head.
+- `model.py` - Implementation of the proposed **PhysReg-TCN** architecture.
 The implementation uses PyTorch, Numpy, pandas, scikit-learn, matplotlib, seaborn, and fvcore (for FLOPs analysis).
 
 ## Citing this Repository
